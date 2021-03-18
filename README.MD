@@ -1,4 +1,4 @@
-# RESTful API Users with NodeJs
+# API Users with NodeJs
 * API developed in Node.js
 
 # How to install ?
