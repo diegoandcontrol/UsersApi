@@ -9,5 +9,5 @@ npm install | yarn add
 
 # Starting the server
 ```
-* npm start | yarn start
+npm start | yarn start
 ```
